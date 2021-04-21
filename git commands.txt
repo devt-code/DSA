@@ -1,0 +1,17 @@
+/*
+editorial: https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+practice: https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1
+
+*/
+
+
+*****
+Git Commands
+*****
+git status -- to see the status
+git add .
+
+git commit -m "sample message"
+
+git push
+ 
