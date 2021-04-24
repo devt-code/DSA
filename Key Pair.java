@@ -2,6 +2,8 @@
 editorial: https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
 practice: https://practice.geeksforgeeks.org/problems/key-pair5616/1#
 
+***Given a sorted and rotated array, find if there is a pair with a given sum - https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/
+
 */
 
 //Initial Template for Java
